@@ -1,6 +1,6 @@
 {
     "name": "vue-html-template-loader",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Compile Vue template string to render function and transform ES6 to ES5.",
     "main": "index.js",
     "repository": "git@github.com:liziqiang/vue-html-template-loader.git",
@@ -9,7 +9,7 @@
     "dependencies": {
         "html-loader": "^0.5.5",
         "loader-utils": "^1.2.3",
-        "vue-template-compiler": "^2.5.22",
+        "vue-template-compiler": "2.5.22",
         "vue-template-es2015-compiler": "^1.9.1"
     }
 }
